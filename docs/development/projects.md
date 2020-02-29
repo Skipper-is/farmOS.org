@@ -146,6 +146,10 @@ added to extend your farmOS functionality:
   A produce safety record keeping module for farmOS.
 * **[Farm Sensor: Atmospi](https://github.com/mstenta/farm_sensor_atmospi)** -
   Integrates farmOS and [Atmospi](https://github.com/mstenta/atmospi) sensors.
+* **[Farm Weight Quick Form](https://github.com/Skipper-is/farm_quickweight)** -
+  Adds a quick form for weighing animals. 
+* **[Farm Combined Area Units](https://github.com/Skipper-is/farm_area_combined)** -
+  Displays both the metric and imperial measurements for areas in the map.
 
 For more information and documentation about these modules, see
 [farmOS community modules].
